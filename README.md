@@ -2,7 +2,7 @@
 
 # 🧠 E-Commerce Backend (FastAPI)
 
-This is the backend API for a mobile phone e-commerce web app built with FastAPI. It supports user registration, login, and full CRUD operations for products.
+This is the backend API for a e-commerce web app built with FastAPI. It supports user registration, login, and full CRUD operations for products.
 
 ---
 
